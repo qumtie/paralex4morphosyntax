@@ -1,0 +1,1 @@
+python3 mdParadigms2.py mdParadigms2.txt >mdParadigms2-test.txt

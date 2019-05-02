@@ -1,0 +1,201 @@
+# changes in gender = syntactic category = to infer from corpus...
+# distinguishing animate / inanimate : contextual features...
+#	inanimate / animate -- rule= the same as nom or gen...
+фабрик-а~D1h робітниц-я~D1s наді-я~D1j площ-а~D1m		n111.N.nom.sing.fem	D1 h s j m
+фабрик-и~D1h робітниц-і~D1s наді-ї~D1j площ-і~D1m		n112.N.gen.sing.fem	D1 h s j m
+фабриц-і~D1h робітниц-і~D1s наді-ї~D1j площ-і~D1m		n113.N.dat.sing.fem	D1 h s j m
+фабрик-у~D1h робітниц-ю~D1s наді-ю~D1j площ-у~D1m		n144.N.acc.sing.fem	D1 h s j m
+фабрик-ою~D1h робітниц-ею~D1s наді-єю~D1j площ-ею~D1m		n115.N.ins.sing.fem	D1 h s j m
+## фабриц-і~D1h робітниц-і~D1s наді-ї~D1j площ-і~D1m		n116.N.loc.sing.fem	D1 h s j m
+фабрик-о~D1h робітниц-е~D1s наді-є~D1j площ-е~D1m		n117.N.voc.sing.fem	D1 h s j m
+#
+## фабрик-и~D1h робітниц-і~D1s наді-ї~D1j площ-і~D1m		n121.N.nom.plur.fem	D1 h s j m
+фабрик-~D1h робітниц-ь~D1s наді-й~D1j площ-~D1m		n122.N.gen.plur.fem	D1 h s j m
+фабрик-ам~D1h робітниц-ям~D1s наді-ям~D1j площ-ам~D1m		n123.N.dat.plur.fem	D1 h s j m
+# фабрик-и~D1h робітниц-ь~D1s наді-ї~D1j площ-і~D1m		n124.N.acc.plur.fem	D1 h s j m
+фабрик-ами~D1h робітниц-ями~D1s наді-ями~D1j площ-ами~D1m		n125.N.ins.plur.fem	D1 h s j m
+фабрик-ах~D1h робітниц-ях~D1s наді-ях~D1j площ-ах~D1m		n126.N.loc.plur.fem	D1 h s j m
+## фабрик-и~D1h робітниц-і~D1s наді-ї~D1j площ-і~D1m		n127.N.voc.plur.fem	D1 h s j m
+#
+# second declination masculinum
+робітник-~D2Mh сталевар-~D2Mr учител-ь~D2Ms секретар-~D2Mrs кра-й~D2Mjs товариш-~D2Mm школяр-~D2Mrm		n211.N.nom.sing.mas	D2M h r s ri j m mr
+робітник-а~D2Mh сталевар-а~D2Mr учител-я~D2Ms секретар-я~D2Mrs кра-ю~D2Mjs товариш-а~D2Mm школяр-а~D2Mrm		n212.N.gen.sing.mas	D2M h r s ri j m mr
+робітник-ові~D2Mh/-у~D2Mh сталевар-ові~D2Mr/-у~D2Mr учител-еві~D2Ms/-ю~D2Ms секретар-еві~D2Mrs/-ю~D2Mrs кра-єві~D2Mjs/-ю~D2Mjs товариш-еві~D2Mm/-у~D2Mm школяр-еві~D2Mrm/-у~D2Mrm		n213.N.dat.sing.mas	D2M h r s ri j m mr
+# робітник-а~D2Mh сталевар-а~D2Mr учител-я~D2Ms секретар-я~D2Mrs кра-й~D2Mjs товариш-а~D2Mm школяр-а~D2Mrm		n214.N.acc.sing.mas	D2M h r s ri j m mr
+робітник-ом~D2Mh сталевар-ом~D2Mr учител-ем~D2Ms секретар-ем~D2Mrs кра-єм~D2Mjs товариш-ем~D2Mm школяр-ем~D2Mrm		n215.N.ins.sing.mas	D2M h r s ri j m mr
+робітник-ові~D2Mh/-у~D2Mh сталевар-ові~D2Mr/-і~D2Mr учител-еві~D2Ms/-і~D2Ms/-ю~D2Ms секретар-еві~D2Mrs/-і~D2Mrs/-ю~D2Mrs кра-ї~D2Mjs/кра-ю~D2Mjs товариш-еві~D2Mm/-і~D2Mm/-у~D2Mm школяр-еві~D2Mrm/-і~D2Mrm		n216.N.loc.sing.mas	D2M h r s ri j m mr
+## робітник-~D2Mh/робітнич-у~D2Mh/-е~D2Mh сталевар-е~D2Mr учител-ю~D2Ms секретар-ю~D2Mrs кра-ю~D2Mjs товариш-у~D2Mm школяр-е~D2Mrm		n217.N.voc.sing.mas	D2M h r s ri j m mr
+#
+робітник-и~D2Mh сталевар-и~D2Mr учител-і~D2Ms секретар-і~D2Mrs кра-ї~D2Mjs товариш-і~D2Mm школяр-і~D2Mrm		n221.N.nom.plur.mas	D2M h r s ri j m mr
+робітник-ів~D2Mh сталевар-ів~D2Mr учител-ів~D2Ms секретар-ів~D2Mrs кра-їв~D2Mjs товариш-ів~D2Mm школяр-ів~D2Mrm		n222.N.gen.plur.mas	D2M h r s ri j m mr
+робітник-ам~D2Mh сталевар-ам~D2Mr учител-ям~D2Ms секретар-ям~D2Mrs кра-ям~D2Mjs товариш-ам~D2Mm школяр-ам~D2Mrm		n223.N.dat.plur.mas	D2M h r s ri j m mr
+# робітник-ів~D2Mh сталевар-ів~D2Mr учител-ів~D2Ms секретар-ів~D2Mrs кра-ї~D2Mjs товариш-ів~D2Mm школяр-ів~D2Mrm		n224.N.acc.plur.mas	D2M h r s ri j m mr
+робітник-ами~D2Mh сталевар-ами~D2Mr учител-ями~D2Ms секретар-ями~D2Mrs кра-ями~D2Mjs товариш-ами~D2Mm школяр-ами~D2Mrm		n225.N.ins.plur.mas	D2M h r s ri j m mr
+робітник-ах~D2Mh сталевар-ах~D2Mr учител-ях~D2Ms секретар-ях~D2Mrs кра-ях~D2Mjs товариш-ах~D2Mm школяр-ах~D2Mrm		n226.N.loc.plur.mas	D2M h r s ri j m mr
+## робітник-и~D2Mh сталевар-и~D2Mr учител-і~D2Ms секретар-і~D2Mrs кра-ї~D2Mjs товариш-і~D2Mm школяр-і~D2Mrm		n227.N.voc.plur.mas	D2M h r s ri j m mr
+#
+# second declination neutrum
+міст-о~D2Nh місц-е~D2Ns прізвищ-е~D2Nm		n311.N.nom.sing.neu	D2N h s m
+міст-а~D2Nh місц-я~D2Ns прізвищ-а~D2Nm		n312.N.gen.sing.neu	D2N h s m
+міст-у~D2Nh місц-ю~D2Ns прізвищ-у~D2Nm		n313.N.dat.sing.neu	D2N h s m
+# міст-о~D2Nh місц-е~D2Ns прізвищ-е~D2Nm		n314.N.acc.sing.neu	D2N h s m
+міст-ом~D2Nh місц-ем~D2Ns прізвищ-ем~D2Nm		n315.N.ins.sing.neu	D2N h s m
+міст-і~D2Nh місц-і~D2Ns прізвищ-і~D2Nm		n316.N.loc.sing.neu	D2N h s m
+## міст-о~D2Nh місц-е~D2Ns прізвищ-е~D2Nm		n317.N.voc.sing.neu	D2N h s m
+міст-а~D2Nh місц-я~D2Ns прізвищ-а~D2Nm		n321.N.nom.plur.neu	D2N h s m
+міст-~D2Nh місц-ь~D2Ns прізвищ-~D2Nm		n322.N.gen.plur.neu	D2N h s m
+міст-ам~D2Nh місц-ям~D2Ns прізвищ-ам~D2Nm		n323.N.dat.plur.neu	D2N h s m
+# міст-а~D2Nh місц-я~D2Ns прізвищ-а~D2Nm		n324.N.acc.plur.neu	D2N h s m
+міст-ами~D2Nh місц-ями~D2Ns прізвищ-ами~D2Nm		n325.N.ins.plur.neu	D2N h s m
+міст-ах~D2Nh місц-ях~D2Ns прізвищ-ах~D2Nm		n326.N.loc.plur.neu	D2N h s m
+## міст-а~D2Nh місц-я~D2Ns прізвищ-а~D2Nm		n327.N.voc.plur.neu	D2N h s m
+#
+# third declination (femimine) -- long consonant -- in ins.sing
+тін-ь~D3si подорож-~D3sb радіст-ь~D3i		n411.N.nom.sing.fem	D3 si sb i
+тін-і~D3si подорож-і~D3sb радост-і~D3i		n412.N.gen.sing.fem	D3 si sb i
+## тін-і~D3si подорож-і~D3sb радост-і~D3i		n413.N.dat.sing.fem	D3 si sb i
+тін-ь~D3si подорож-~D3sb радіст-ь~D3i		n414.N.acc.sing.fem	D3 si sb i
+тінн-ю~D3si подорожж-ю~D3sb радіст-ю~D3i		n415.N.ins.sing.fem	D3 si sb i
+## тін-і~D3si подорож-і~D3sb радост-і~D3i		n416.N.loc.sing.fem	D3 si sb i
+тін-е~D3si подорож-е~D3sb радост-е~D3i		n417.N.voc.sing.fem	D3 si sb i
+#
+## тін-і~D3si подорож-і~D3sb радост-і~D3i		n421.N.nom.plur.fem	D3 si sb i
+тін-ей~D3si подорож-ей~D3sb радост-ей~D3i		n422.N.gen.plur.fem	D3 si sb i
+тін-ям~D3si подорож-ам~D3sb радост-ям~D3i		n423.N.dat.plur.fem	D3 si sb i
+# тін-і~D3si подорож-і~D3sb радост-і~D3i		n424.N.acc.plur.fem	D3 si sb i
+тін-ями~D3si подорож-ами~D3sb радост-ями~D3i		n425.N.ins.plur.fem	D3 si sb i
+тін-ях~D3si подорож-ах~D3sb радост-ях~D3i		n426.N.loc.plur.fem	D3 si sb i
+## тін-і~D3si подорож-і~D3sb радост-і~D3i		n427.N.voc.plur.fem	D3 si sb i
+#
+# fourth declination
+курч-а~D4a ім’-я~D4b		n511.N.nom.sing.neu	D4 a b
+курч-ати~D4a ім-ені~D4b/ім’-я~D4b		n512.N.gen.sing.neu	D4 a b
+курч-аті~D4a ім-ені~D4b		n513.N.dat.sing.neu	D4 a b
+## курч-а~D4a ім’-я~D4b		n514.N.acc.sing.neu	D4 a b
+курч-ам~D4a ім-енем~D4b/ім’-ям~D4b		n515.N.ins.sing.neu	D4 a b
+## курч-аті~D4a ім-ені~D4b		n516.N.loc.sing.neu	D4 a b
+## курч-а~D4a ім’-я~D4b		n517.N.voc.sing.neu	D4 a b
+#
+курч-ата~D4a ім-ена~D4b		n521.N.nom.plur.neu	D4 a b
+курч-ат~D4a ім-ен~D4b		n522.N.gen.plur.neu	D4 a b
+курч-атам~D4a ім-енам~D4b		n523.N.dat.plur.neu	D4 a b
+# курч-ат~D4a/-ата~D4a ім-ена~D4b		n524.N.acc.plur.neu	D4 a b
+курч-атами~D4a ім-енами~D4b		n525.N.ins.plur.neu	D4 a b
+курч-атах~D4a ім-енах~D4b		n526.N.loc.plur.neu	D4 a b
+## курч-ата~D4a ім-ена~D4b		n527.N.voc.plur.neu	D4 a b
+
+
+# adjectives - adjectival declension
+#
+гарн-ий~Ah син-ій~As безкра-їй~Aj братів-~Ap		a111.A.nom.sing.mas	A h s j p
+гарн-ого~Ah синь-ого~As безкрай-ого~Aj братов-ого~Ap		a112.A.gen.sing.mas	A h s j p
+гарн-ому~Ah синь-ому~As безкрай-ому~Aj братов-ому~Ap		a113.A.dat.sing.mas	A h s j p
+# = Н. або Р. = Н. або Р. = Н. або Р. = Н. або Р.		a114.A.acc.sing.mas	A h s j p
+гарн-им~Ah син-ім~As безкра-їм~Aj братов-им~Ap		a115.A.ins.sing.mas	A h s j p
+## гарн-ому~Ah/-ім~Ah синь-ому~As/син-ім~As безкрай-ому~Aj/безкра-їм~Aj братов-ому~Ap/-ім~Ap		a116.A.loc.sing.mas	A h s j p
+гарн-і~Ah син-і~As безкра-ї~Aj братов-і~Ap		a121.A.nom.plur.mas	A h s j p
+гарн-их~Ah син-іх~As безкра-їх~Aj братов-их~Ap		a122.A.gen.plur.mas	A h s j p
+## гарн-им~Ah син-ім~As безкра-їм~Aj братов-им~Ap		a123.A.dat.plur.mas	A h s j p
+# = Н. або Р. = Н. або Р. = Н. або Р. = Н. або Р.		a124.A.acc.plur.mas	A h s j p
+гарн-ими~Ah син-іми~As безкра-їми~Aj братов-ими~Ap		a125.A.ins.plur.mas	A h s j p
+гарн-их~Ah син-іх~As безкра-їх~Aj братов-их~Ap		a126.A.loc.plur.mas	A h s j p
+
+
+гарн-е~Ah син-є~As безкра-є~Aj братов-е~Ap		a211.A.nom.sing.neu	A h s j p
+## гарн-ого~Ah синь-ого~As безкрай-ого~Aj братов-ого~Ap		a212.A.gen.sing.neu	A h s j p
+## гарн-ому~Ah синь-ому~As безкрай-ому~Aj братов-ому~Ap		a213.A.dat.sing.neu	A h s j p
+## гарн-е~Ah син-є~As безкра-є~Aj братов-е~Ap		a214.A.acc.sing.neu	A h s j p
+## гарн-им~Ah син-ім~As безкра-їм~Aj братов-им~Ap		a215.A.ins.sing.neu	A h s j p
+## гарн-ому~Ah/-ім~Ah синь-ому~As/син-ім~As безкрай-ому~Aj/безкра-їм~Aj братов-ому~Ap/-ім~Ap		a216.A.loc.sing.neu	A h s j p
+## гарн-і~Ah син-і~As безкра-ї~Aj братов-і~Ap		a221.A.nom.plur.neu	A h s j p
+## гарн-их~Ah син-іх~As безкра-їх~Aj братов-их~Ap		a222.A.gen.plur.neu	A h s j p
+## гарн-им~Ah син-ім~As безкра-їм~Aj братов-им~Ap		a223.A.dat.plur.neu	A h s j p
+# = Н. або Р. = Н. або Р. = Н. або Р. = Н. або Р.		a224.A.acc.plur.neu	A h s j p
+## гарн-ими~Ah син-іми~As безкра-їми~Aj братов-ими~Ap		a225.A.ins.plur.neu	A h s j p
+## гарн-их~Ah син-іх~As безкра-їх~Aj братов-их~Ap		a226.A.loc.plur.neu	A h s j p
+
+
+гарн-а~Ah син-я~As безкра-я~Aj братов-а~Ap		a311.A.nom.sing.fem	A h s j p
+гарн-ої~Ah синь-ої~As безкрай-ої~Aj братов-ої~Ap		a312.A.gen.sing.fem	A h s j p
+гарн-ій~Ah син-ій~As безкра-їй~Aj братов-ій~Ap		a313.A.dat.sing.fem	A h s j p
+гарн-у~Ah син-ю~As безкра-ю~Aj братов-у~Ap		a314.A.acc.sing.fem	A h s j p
+гарн-ою~Ah синь-ою~As безкрай-ою~Aj братов-ою~Ap		a315.A.ins.sing.fem	A h s j p
+гарн-ій~Ah син-ій~As безкра-їй~Aj братов-ій~Ap		a316.A.loc.sing.fem	A h s j p
+## гарн-і~Ah син-і~As безкра-ї~Aj братов-і~Ap		a321.A.nom.plur.fem	A h s j p
+## гарн-их~Ah син-іх~As безкра-їх~Aj братов-их~Ap		a322.A.gen.plur.fem	A h s j p
+## гарн-им~Ah син-ім~As безкра-їм~Aj братов-им~Ap		a323.A.dat.plur.fem	A h s j p
+# = Н. або Р. = Н. або Р. = Н. або Р. = Н. або Р.		a324.A.acc.plur.fem	A h s j p
+## гарн-ими~Ah син-іми~As безкра-їми~Aj братов-ими~Ap		a325.A.ins.plur.fem	A h s j p
+## гарн-их~Ah син-іх~As безкра-їх~Aj братов-их~Ap		a326.A.loc.plur.fem	A h s j p
+
+# verbs
+#
+
+ід-у~V1h кол-ю~V1m чу-ю~V1s		v111.V.p1.sing.pres	V1 h m s
+ід-еш~V1h кол-еш~V1m чу-єш~V1s		v112.V.p2.sing.pres		V1 h m s
+ід-е~V1h кол-е~V1m чу-є~V1s		v113.V.p3.sing.pres	V1 h m s
+
+ід-емо~V1h кол-емо~V1m чу-ємо~V1s		v121.V.p1.plur.pres		V1 h m s
+ід-ете~V1h кол-ете~V1m чу-єте~V1s		v121.V.p2.plur.pres		V1 h m s
+ід-уть~V1h кол-ють~V1m чу-ють~V1s		v123.V.p3.plur.pres	V1 h m s
+
+робл-ю~V2h бач-у~V2m го-ю~V2s		v211.V.p1.sing.pres	V2 h m s
+роб-иш~V2h бач-иш~V2m го-їш~V2s		v212.V.p2.sing.pres	V2 h m s
+роб-ить~V2h бач-ить~V2m го-їть~V2s		v213.V.p3.sing.pres	V2 h m s
+
+роб-имо~V2h бач-имо~V2m го-їмо~V2s    v221.V.p1.plur.pres	V2 h m s
+роб-ите~V2h бач-ите~V2m го-їте~V2s		v222.V.p2.plur.pres	V2 h m s
+робл-ять~V2h бач-ать~V2m го-ять~V2s		v223.V.p3.plur.pres	V2 h m s
+
+бра-ти~VPv нес-ти~VPz пек-ти~VPz	v310.V.inf	VP v z z
+бра-в~VPv ніс-~VPz пік-~VPz	v311.V.mas.sing.past	VP v z z
+бра-ла~VPv нес-ла~VPz пек-ла~VPz	v312.V.fem.sing.past	VP v z z
+бра-ло~VPv нес-ло~VPz пек-ло~VPz	v313.V.neu.sing.past	VP v z z
+бра-ли~VPv нес-ли~VPz пек-ли~VPz	v321.V.mfn.plur.past	VP v z z
+
+
+бра-тиму~VPv нес-тиму~VPz пек-тиму~VPz	v511.V.p1.sing.futr	VF h m s
+бра-тимеш~VPv нес-тимеш~VPz пек-тимеш~VPz	v512.V.p2.sing.futr	VF h m s
+бра-тиме~VPv нес-тиме~VPz пек-тиме~VPz	v513.V.p3.sing.futr	VF h m s
+бра-тимемо~VPv/-тимем~VPz нес-тимемо~VPz/-тимем~VFm пек-тимемо~VFs/-тимем~VFs	v521.V.p1.plur.futr   VF h m s
+бра-тимете~VPv нес-тимете~VPz пек-тимете~VPz	v522.V.p2.plur.futr   VF h m s
+бра-тимуть~VPv нес-тимуть~VPz пек-тимуть~VPz	v523.V.p1.plur.futr   VF h m s
+
+бер-и~VIy купуй-~VIz		v612.V.p2.sing.impr	VI y z
+бер-ім~VIy/-імо~VIy купуй-мо~VIz		v621.V.p1.plur.impr	VI y z
+бер-іть~VIy/-те~DIy купуй-те~VIz		v623.V.p2.plur.impr	VI y z
+
+# reflexive verbs
+ід-уся~V1hR кол-юся~V1mR чу-юся~V1sR	v111.V.p1.sing.pres	V1 h m s
+ід-ешся~V1hR кол-ешся~V1mR чу-єшся~V1sR	v112.V.p2.sing.pres	V1 h m s
+ід-е~V1hR кол-е~V1mR чу-є~V1sR	v113.V.p3.sing.pres	V1 h m s
+
+ід-емося~V1hR кол-емося~V1mR чу-ємося~V1sR	v121.V.p1.plur.pres	V1 h m s
+ід-етеся~V1hR кол-етеся~V1mR чу-єтеся~V1sR	v121.V.p2.plur.pres	V1 h m s
+ід-уться~V1hR кол-ються~V1mR чу-ються~V1sR	v123.V.p3.plur.pres	V1 h m s
+
+робл-юся~V2hR бач-уся~V2mR го-юся~V2sR	v211.V.p1.sing.pres	V2 h m s
+роб-ишся~V2hR бач-ишся~V2mR го-їшся~V2sR	v212.V.p2.sing.pres	V2 h m s
+роб-иться~V2hR бач-иться~V2mR го-їться~V2sR	v213.V.p3.sing.pres	V2 h m s
+
+роб-имося~V2hR бач-имося~V2mR го-їмося~V2sR	v221.V.p1.plur.pres	V2 h m s
+роб-итеся~V2hR бач-итеся~V2mR го-їтеся~V2sR	v222.V.p2.plur.pres	V2 h m s
+робл-яться~V2hR бач-аться~V2mR го-яться~V2sR	v223.V.p3.plur.pres	V2 h m s
+
+бра-тися~VPvR нес-тися~VPzR пек-тися~VPzR	v310.V.inf	VP v z z
+бра-вся~VPvR ніс-ся~VPzR пік-ся~VPzR	v311.V.mas.sing.past	VP v z z
+бра-лася~VPvR нес-лася~VPzR пек-лася~VPzR	v312.V.fem.sing.past	VP v z z
+бра-лося~VPvR нес-лося~VPzR пек-лося~VPzR	v313.V.neu.sing.past	VP v z z
+бра-лися~VPvR нес-лися~VPzR пек-лися~VPzR	v321.V.mfn.plur.past	VP v z z
+
+
+бра-тимуся~VPvR нес-тимуся~VPzR пек-тимуся~VPzR v511.V.p1.sing.futr	VF h m s
+бра-тимешся~VPvR нес-тимешся~VPzR пек-тимешся~VPzR	v512.V.p2.sing.futr	VF h m s
+бра-тимеся~VPvR нес-тимеся~VPzR пек-тимеся~VPzR	v513.V.p3.sing.futr	VF h m s
+бра-тимемося~VPvR/-тимемся~VPvR нес-тимемося~VPzR/-тимемся~VPzR пек-тимемося~VPzR/-тимемся~VPzR	v521.V.p1.plur.futr	VF h m s
+бра-тиметеся~VPvR нес-тиметеся~VPzR пек-тиметеся~VPzR	v522.V.p2.plur.futr	VF h m s
+бра-тимуться~VPvR нес-тимуться~VPzR пек-тимуться~VPzR	v523.V.p1.plur.futr	VF h m s
+
+бер-ися~VIyR купуйся-~VIzR	v612.V.p2.sing.impr	VI y z
+бер-імся~VIyR/-імося~VIyR купуй-мося~VIzR	v621.V.p1.plur.impr	VI y z
+бер-іться~VIyR/-теся~DIyR купуй-теся~VIzR	v623.V.p2.plur.impr	VI y z
